@@ -5,6 +5,7 @@ black
 holoviews
 jupyter
 jupyter_contrib_nbextensions
+matplotlib
 msprime~=1.0.0
 notebook
 RISE
