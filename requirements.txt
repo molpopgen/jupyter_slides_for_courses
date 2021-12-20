@@ -1,0 +1,10 @@
+black
+# See https://github.com/kirbs-/hide_code/issues/97
+# for why this is commented out
+# hide_code
+holoviews
+jupyter
+jupyter_contrib_nbextensions
+msprime~=1.0.0
+notebook
+RISE
