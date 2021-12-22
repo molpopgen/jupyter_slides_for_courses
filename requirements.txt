@@ -9,4 +9,5 @@ matplotlib
 msprime~=1.0.0
 notebook
 pandas
+scipy
 RISE
